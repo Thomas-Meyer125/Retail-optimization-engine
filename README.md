@@ -47,7 +47,7 @@ QA validation processes
 Data modeling
 Reporting logic
 
-![Optimization Results](results_exampl.png)
+![Optimization Results](results_example.png)
 
 Author
 
