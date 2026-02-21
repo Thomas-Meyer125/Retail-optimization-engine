@@ -47,6 +47,8 @@ QA validation processes
 Data modeling
 Reporting logic
 
+![Optimization Results](results_exampl.png)
+
 Author
 
 Thomas J. Meyer
